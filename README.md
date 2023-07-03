@@ -12,3 +12,5 @@ Espace d'administration réalisé avec le bundle EasyAdmin
 Pagination de la liste des annonces réalisée avec le bundle KnpPaginator
 
 Mise en place d'une API pour rendre disponible les annonces et leurs chiens (API Plateform)
+
+Projet réalisé dans le cadre des cours Symfony Human Booster de @Dreeckan avec : @azuera @ALF-PARYA @MathiasDAHA
